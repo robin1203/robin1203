@@ -6,7 +6,7 @@ UX Researcher
 
 Live in Seoul, Republic of Korea
 
-[LinkedIn](https://www.linkedin.com/in/yoonbinchoi/) | [📄 Resume](https://drive.google.com/file/d/1U5RS8ZGTKoSbXBg9-7lDia23gHGgVNHC/view?usp=sharing)
+[LinkedIn](https://www.linkedin.com/in/yoonbinchoi/) | [📄 Resume](https://drive.google.com/file/d/1U5RS8ZGTKoSbXBg9-7lDia23gHGgVNHC/view?usp=sharing) | [Notion](https://honorable-mule-ac4.notion.site/YoonBin-Choi-2042d799b1cf402790876ca63e2e7de3)
 
 📞  +82 90551203
 
@@ -18,6 +18,9 @@ Live in Seoul, Republic of Korea
 > 
 
 ## 🗺 Languages
+- 🇰🇷 Korean - mother tongue
+- 🇬🇧 English - professional (OPIc AL)
+- 🇩🇪 German - intermediate (B1)
 
 # 🎓 Education
 
@@ -40,27 +43,19 @@ Live in Seoul, Republic of Korea
     - With the insights from the previous project, we conducted more detailed user research using prototypes with several grammatical variances. After summarizing user preference for Korean UX Writing on each service domain, an In-depth interview with a highlighting method was carried out.
 - K-pop youtube comment analysis project (non-disclosure)
 
-[Education & Career](https://www.notion.so/45be8b1b965843c3b3df689febfff6f1)
 
 # 🏛 Projects
+- [Samsung UX Writing Project (Industry-University)](https://yoonbinchoi.webflow.io/work/project-1)
+- [Katalk Factcheck Project](https://yoonbinchoi.webflow.io/work/project-3)
+- [AI-Anthropomorphism (Master's Thesis)](https://yoonbinchoi.webflow.io/work/project-4)
 
 # 🧑🏻‍💻 Professional Experience
-
-May 2021 - Dec 2021
-
-**Transdisciplinary Center for Education & AI in Seoul National University (TCEAI) | Seoul, Korea**
-
-Researcher
-
-LMS/Video Conference Feature Preference User Survey, Service User Log Analysis Using Google Analytics
-
-[EvoClass](https://www.notion.so/EvoClass-07ce506070a34f4b86da9f8cd6123eb5)
 
 Jan 2021 - Apr 2021
 
 **Transverse | Pangyo, Korea**
 
-Junior Researcher
+Researcher
 
 Planning research on demand on functions of learning management systems (LMS) and video conferencing systems, and market research for a Startup support projects application.
 
