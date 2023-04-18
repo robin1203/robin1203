@@ -2,13 +2,13 @@
 
 # Bio
 
-UX Researcher
+HCI, Psychology, Data Analysis
 
 Live in Seoul, Republic of Korea
 
 [LinkedIn](https://www.linkedin.com/in/yoonbinchoi/) | [📄 Resume](https://drive.google.com/file/d/1U5RS8ZGTKoSbXBg9-7lDia23gHGgVNHC/view?usp=sharing) | [Notion](https://honorable-mule-ac4.notion.site/YoonBin-Choi-2042d799b1cf402790876ca63e2e7de3)
 
-📞  +82 90551203
+📞  +82 1090551203
 
 ✉️  c.yoonbin@gmail.com
 
