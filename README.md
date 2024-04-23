@@ -14,7 +14,7 @@ Live in Seoul, Republic of Korea
 
 🏠 https://yoonbinchoi.webflow.io/
 
-> I am a UX Researcher based in Seoul. I conducted research projects on the anthropomorphism of AI, and UX Writing strategy with a psychological, linguistic approach. I have experience with several user research methods, such as surveys, UT, and In-depth Interviews. In addition to statistical analysis and data visualization skills using Python and R, I am currently learning intermediate SQL to acquire more practical data analysis abilities.
+> I conducted research projects on the anthropomorphism of AI, and UX Writing strategy with a psychological, linguistic approach. I have experience with several user research methods, such as surveys, UT, and In-depth Interviews. In addition to statistical analysis and data visualization skills using Python and R, I am currently learning intermediate SQL to acquire more practical data analysis abilities.
 > 
 
 ## 🗺 Languages
